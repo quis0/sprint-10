@@ -1,3 +1,4 @@
-# Current build: link
+# Current build: [GitHub Pages]()
 
-## Current version: 0.0.1
+## Current version: 1.0.0 :white_check_mark:
+
