@@ -2,7 +2,7 @@
 
 *Read this in other languages: [English](README.md), [Русский](README.ru.md)*
 
-### Current version: 1.0.2 :white_check_mark:
+### Текущая версия: 1.0.2 :white_check_mark:
 
 ### Quick start
 1.  Download this repository
