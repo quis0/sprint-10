@@ -1,4 +1,4 @@
-# Simple form validation (sprint-10)
+# Simple form validation using regular expressions (sprint-10)
 
 *Read this in other languages: [English](README.md), [Русский](README.ru.md)*
 
