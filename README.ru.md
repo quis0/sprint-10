@@ -4,8 +4,8 @@
 
 ### Текущая версия: 1.0.2 :white_check_mark:
 
-### Quick start
-1.  Download this repository
-2.  Open `index.html` 
+### Установка
+1.  Скачайте данный репозиторий
+2.  Запустите `index.html` 
 
-### Try it: https://quis0.github.io/sprint-10/
+### Посмотреть сайт: https://quis0.github.io/sprint-10/
