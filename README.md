@@ -1,4 +1,4 @@
-# Current build: [GitHub Pages](https://quis0.github.io/sprint-10/)
+# Simple form validation (sprint-10)
 
 *Read this in other languages: [English](README.md), [Русский](README.ru.md)*
 
@@ -7,3 +7,5 @@
 ### Quick start
 1.  Download this repository
 2.  Open `index.html` 
+
+### Try it: https://quis0.github.io/sprint-10/
