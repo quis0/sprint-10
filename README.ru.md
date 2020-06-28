@@ -1,4 +1,4 @@
-# Валидация формы с помощью регулярных выражений (sprint-10)
+## Валидация формы с помощью регулярных выражений (sprint-10)
 
 *Read this in other languages: [English](README.md), [Русский](README.ru.md)*
 
